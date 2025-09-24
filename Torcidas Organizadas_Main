@@ -29,7 +29,7 @@ UIStroke.Thickness = 2
 UIStroke.Parent = MainFrame
 
 local Title = Instance.new("TextLabel")
-Title.Text = "Menu Torcidas | by FloquinhoBombado"
+Title.Text = "Menu Torcidas | by Floquinho"
 Title.Size = UDim2.new(1, 0, 0, 40)
 Title.BackgroundTransparency = 1
 Title.TextColor3 = Color3.fromRGB(240, 240, 240)
